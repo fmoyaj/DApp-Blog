@@ -3,7 +3,7 @@
 **Test the dapp in Chrome by visiting: [https://dblog-lat.herokuapp.com/](https://dblog-lat.herokuapp.com/)**
 
 The smart contract behind this descentralized app was built on the Ethereum Virtual Machine. This app is a full stack blog. The smart contract was deployed to Mumbai, the Polygon test network. Get some tokens so write
-some blogposts in the [Polygon Faucet](https://faucet.polygon.technology).
+some blog posts in the [Polygon Faucet](https://faucet.polygon.technology).
 
 
 Stack:
