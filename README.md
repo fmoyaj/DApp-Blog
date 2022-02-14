@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Dblog: A blog application running on the blockchain
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+**Test the dapp in Chrome by visiting: [https://dblog-lat.herokuapp.com/](https://dblog-lat.herokuapp.com/)**
 
-Try running some of the following tasks:
+The smart contract behind this descentralized app was built on the Ethereum Virtual Machine. This app is a full stack blog. The smart contract was deployed to Mumbai, the Polygon test network. Get some tokens so write
+some blogposts in the [Polygon Faucet](https://faucet.polygon.technology).
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+
+Stack:
+- Blockchain – Polygon
+- Ethereum development environment – Hardhat
+- Front end – Next.js and React
+- Ethereum web client library – Ethers.js
+- File storage – IPFS (in maintenance)
+
