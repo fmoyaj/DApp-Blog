@@ -81,7 +81,7 @@ function MyApp({ Component, pageProps }) {
               Home
             </a>
           </Link>
-          {
+          { account &&
             /* if the signed in user is the contract owner, we */
             /* show the nav link to create a new post */
               <Link href="/create-post">
