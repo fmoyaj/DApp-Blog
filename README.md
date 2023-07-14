@@ -8,7 +8,7 @@ The smart contract behind this descentralized app was built on the Ethereum Virt
 Stack:
 - Blockchain – Polygon
 - Ethereum development environment – Hardhat
-- Front end – Next.js and React
+- Front end – Next.js
 - Ethereum web client library – Ethers.js
 - File storage – IPFS (in maintenance)
 
